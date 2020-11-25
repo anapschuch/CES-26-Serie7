@@ -4,9 +4,9 @@
     "slug": "ces26-serie7",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/calculator.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/calculator.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/calculator.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/calculator.png"
+    },
+    "description": "Sétima série da disciplina de CES-26 do ITA."
   }
 }
